@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-i am a student study in mirai school of technology cse aiml student<br>
+Currently pursuing a Bachelor’s degree in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at Mirai School of Technology,  focused on building a strong foundation in algorithms, machine learning, and real-world problem solving through technology. <br>
 
 
 ## 🌐 Socials:
